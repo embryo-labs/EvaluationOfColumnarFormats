@@ -46,4 +46,8 @@ We provide some pre-generated datasets (1 Mi rows and 20 columns) for testing, t
 format!("{}/{}_r1000000_c20/gen_data/{}_r1000000_c20.csv", PREFIX, wl, wl)
 ```
 
-where `PREFIX` is `https://d3m9osc9baovkk.cloudfront.net/` and `wl` is one of `core, bi, classic, geo, log, ml`
+where `PREFIX` is `https://cfb-data.xinyuzeng.xyz/` and `wl` is one of `core, bi, classic, geo, log, ml`
+
+## Original Data
+
+Original data sets can be downloaded at `https://cfb-data.xinyuzeng.xyz/FormatEvalData.zip`.
