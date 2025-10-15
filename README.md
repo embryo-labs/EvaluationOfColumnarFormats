@@ -50,4 +50,6 @@ where `PREFIX` is `https://cfb-data.xinyuzeng.xyz/` and `wl` is one of `core, bi
 
 ## Original Data
 
-Original data sets can be downloaded at `https://cfb-data.xinyuzeng.xyz/FormatEvalData.zip`.
+Original datasets can be downloaded at `https://cfb-data.xinyuzeng.xyz/FormatEvalData.tar.zst`.
+
+To recover the original folder, run `zstd -d < my_archive.tar.zst | tar -xf -`.
